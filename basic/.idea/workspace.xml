@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3fec52f3-7511-4993-9822-d3558e96a06c" name="Default" comment="switch statements in example and oracle link more details">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LogicalOperators.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/switchstatements.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="basic.iws" />
@@ -558,7 +557,7 @@
       <workItem from="1424506613545" duration="3729000" />
       <workItem from="1424512409544" duration="2401000" />
       <workItem from="1424537828115" duration="4037000" />
-      <workItem from="1424586149891" duration="1537000" />
+      <workItem from="1424586149891" duration="1657000" />
     </task>
     <task id="LOCAL-00001" summary="this is keyboard input types">
       <created>1424510699213</created>
@@ -584,11 +583,17 @@
       <option name="project" value="LOCAL" />
       <updated>1424541281876</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="switch statements in example and oracle link more details">
+      <created>1424587798361</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1424587798361</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13901000" />
+    <option name="totallyTimeSpent" value="14021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="24" width="1333" height="744" extended-state="6" />
