@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fec52f3-7511-4993-9822-d3558e96a06c" name="Default" comment="switch statements in example and oracle link more details">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LogicalOperators.java" />
+    <list default="true" id="3fec52f3-7511-4993-9822-d3558e96a06c" name="Default" comment="logical operators in example and oracle link more details">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/whileloop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="basic.iws" />
@@ -79,11 +80,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="switchstatements.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="switchstatements.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/switchstatements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2065728" vertical-offset="266" max-vertical-offset="915">
+            <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="915">
               <caret line="52" column="68" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whileloop.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/whileloop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4225352" vertical-offset="0" max-vertical-offset="426">
+              <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -117,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/IfStatement.java" />
         <option value="$PROJECT_DIR$/src/LogicalOperators.java" />
         <option value="$PROJECT_DIR$/src/switchstatements.java" />
+        <option value="$PROJECT_DIR$/src/whileloop.java" />
       </list>
     </option>
   </component>
@@ -224,24 +236,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.switchstatements">
-    <configuration default="false" name="mathOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="mathOperators" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="basic" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.whileloop">
     <configuration default="false" name="IncrementOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="IncrementOperators" />
@@ -296,6 +291,23 @@
     <configuration default="false" name="switchstatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="switchstatements" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="basic" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="whileloop" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -526,19 +538,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.mathOperators" />
-      <item index="1" class="java.lang.String" itemvalue="Application.IncrementOperators" />
-      <item index="2" class="java.lang.String" itemvalue="Application.IfStatement" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LogicalOperators" />
-      <item index="4" class="java.lang.String" itemvalue="Application.switchstatements" />
+      <item index="0" class="java.lang.String" itemvalue="Application.IncrementOperators" />
+      <item index="1" class="java.lang.String" itemvalue="Application.IfStatement" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LogicalOperators" />
+      <item index="3" class="java.lang.String" itemvalue="Application.switchstatements" />
+      <item index="4" class="java.lang.String" itemvalue="Application.whileloop" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.switchstatements" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LogicalOperators" />
-        <item index="2" class="java.lang.String" itemvalue="Application.IfStatement" />
-        <item index="3" class="java.lang.String" itemvalue="Application.IncrementOperators" />
-        <item index="4" class="java.lang.String" itemvalue="Application.mathOperators" />
+        <item index="0" class="java.lang.String" itemvalue="Application.whileloop" />
+        <item index="1" class="java.lang.String" itemvalue="Application.switchstatements" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LogicalOperators" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IfStatement" />
+        <item index="4" class="java.lang.String" itemvalue="Application.IncrementOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +569,7 @@
       <workItem from="1424506613545" duration="3729000" />
       <workItem from="1424512409544" duration="2401000" />
       <workItem from="1424537828115" duration="4037000" />
-      <workItem from="1424586149891" duration="1657000" />
+      <workItem from="1424586149891" duration="1936000" />
     </task>
     <task id="LOCAL-00001" summary="this is keyboard input types">
       <created>1424510699213</created>
@@ -589,20 +601,26 @@
       <option name="project" value="LOCAL" />
       <updated>1424587798361</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="logical operators in example and oracle link more details">
+      <created>1424587847330</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1424587847330</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14021000" />
+    <option name="totallyTimeSpent" value="14300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="24" width="1333" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988167" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -610,7 +628,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988167" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18379594" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -651,7 +669,8 @@
     <MESSAGE value="if, if else, if elseif else conditions example" />
     <MESSAGE value="logical operators example" />
     <MESSAGE value="switch statements in example and oracle link more details" />
-    <option name="LAST_COMMIT_MESSAGE" value="switch statements in example and oracle link more details" />
+    <MESSAGE value="logical operators in example and oracle link more details" />
+    <option name="LAST_COMMIT_MESSAGE" value="logical operators in example and oracle link more details" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -795,8 +814,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/switchstatements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2065728" vertical-offset="266" max-vertical-offset="915">
+        <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="915">
           <caret line="52" column="68" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whileloop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4225352" vertical-offset="0" max-vertical-offset="426">
+          <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
           <folding />
         </state>
       </provider>
