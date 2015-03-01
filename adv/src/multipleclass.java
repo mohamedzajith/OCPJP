@@ -11,10 +11,10 @@ public class multipleclass {
 //      int age = sc.nextInt();
 //        obj.name(age);
 
-        girlfriend gf=new girlfriend();
-        System.out.println("Enter your girl friend name :");
-        String gfName = sc.nextLine();
-        gf.setName(gfName);
+        girlfriend gf=new girlfriend("fathima safna");
+//        System.out.println("Enter your girl friend name :");
+//        String gfName = sc.nextLine();
+//        gf.setName(gfName);
         gf.saying();
     }
 }

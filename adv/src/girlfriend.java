@@ -3,6 +3,10 @@
  */
 public class girlfriend {
     private String girlname;
+    //constructor
+    public girlfriend(String name){
+        girlname=name;
+    }
     public void setName(String name){
         girlname=name;
     }
