@@ -6,11 +6,15 @@ public class multipleclass {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        student obj=new student();
+//      student obj=new student();
+//      System.out.println("Enter your age :");
+//      int age = sc.nextInt();
+//        obj.name(age);
 
-        System.out.println("Enter your age :");
-        int age = sc.nextInt();
-
-        obj.name(age);
+        girlfriend gf=new girlfriend();
+        System.out.println("Enter your girl friend name :");
+        String gfName = sc.nextLine();
+        gf.setName(gfName);
+        gf.saying();
     }
 }
