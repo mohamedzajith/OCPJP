@@ -11,19 +11,19 @@ public class fileCreate {
 
         String sp = System.getProperty("file.separator");
         //absolute file name with path
-        String ab = "/home/dba/Desktop/llll/mohamed.txt";
+        String ab = "/home/dba/Desktop/mohamed.txt";
         File file = new File(ab);
         if (file.createNewFile()){
-            System.out.print(ab+" file created!!!");
+            System.out.println(ab+" file created!!!");
         }else {
-            System.out.print("File "+ab +" already Exists");
+            System.out.println("File "+ab +" already Exists");
         }
         //file create project directory
         File file1 = new File("zajith.txt");
         if (file1.createNewFile()){
-            System.out.print(ab+" file created!!!");
+            System.out.println(ab+" file created!!!");
         }else {
-            System.out.print("File "+ab +" already Exists");
+            System.out.println("File "+ab +" already Exists");
         }
     }
 }
