@@ -1,16 +1,16 @@
-package com.mohamed.example;
+package Number.Play.Test;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * Created by dba on 5/10/15.
+ * Created by dba on 5/26/15.
  */
-public class bubblesort {
-    private int[] Arr;
-    private int len;
+public class new_num_play {
+    protected int[] Arr;
+    protected int len;
 
-    public void read(){
+    public int[] read(){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the length of Array : ");
         this.len = sc.nextInt();
@@ -20,6 +20,7 @@ public class bubblesort {
             System.out.print("Value " + (i + 1) + " : ");
             Arr[i] = sc.nextInt();
         }
+        return Arr;
     }
 
     public void bubble(){
@@ -44,10 +45,15 @@ public class bubblesort {
         }
     }
 
-    public static void main(String[] args) {
-        bubblesort bu = new bubblesort();
-        bu.read();
-        bu.bubble();
-        bu.display();
+    public int[] getArr() {
+        return Arr;
+    }
+
+    public int getLen() {
+        return len;
+    }
+
+    public void setLen(int len) {
+        this.len = len;
     }
 }

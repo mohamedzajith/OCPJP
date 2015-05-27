@@ -70,7 +70,7 @@ public class assignment {
     public static void main(String[] args) {
         assignment ex = new assignment();
         ex.read();
-        ex.dosort();
+        //ex.dosort();
         ex.display();
         ex.sum();
         ex.avg();
