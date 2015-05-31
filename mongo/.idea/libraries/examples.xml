@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="examples">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/mongo-java-driver-2.13.x.zip!/mongo-java-driver-2.13.x/src/examples" />
+      <root url="jar://$USER_HOME$/Downloads/mongo-java-driver-2.13.x.zip!/mongo-java-driver-2.13.x/src/main" />
+      <root url="jar://$USER_HOME$/Downloads/mongo-java-driver-2.13.x.zip!/mongo-java-driver-2.13.x/src/test" />
+      <root url="jar://$USER_HOME$/Downloads/mongo-java-driver-2.13.x.zip!/mongo-java-driver-2.13.x/src/util" />
+    </SOURCES>
+  </library>
+</component>
